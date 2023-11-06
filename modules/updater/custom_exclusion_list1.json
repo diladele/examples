@@ -1,0 +1,14 @@
+[
+    {
+        "id"      : "custom_list1",
+        "version" : 1,
+        "name"    : "First Custom List",
+        "comment" : "Manually put here some custom exclusions as you require",
+        "rules" : {
+            "domain_name" : [
+                { "value" :".example.com","comment" : ""},
+                { "value" :".example.net","comment" : ""}
+            ]
+        }
+    }
+]
