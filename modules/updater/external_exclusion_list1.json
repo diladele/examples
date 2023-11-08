@@ -1,12 +1,14 @@
-{
-    "id"      : "external_list1",
-    "version" : 1,
-    "name"    : "First External List",
-    "comment" : "Manually put here some custom exclusions as you require",
-    "rules" : {
-        "domain_name" : [
-            { "value" :".example.com","comment" : ""},
-            { "value" :".example.net","comment" : ""}
-        ]
+[
+    {
+        "id"      : "external_list1",
+        "version" : 1,
+        "name"    : "First External List",
+        "comment" : "Manually put here some custom exclusions as you require",
+        "rules" : {
+            "domain_name" : [
+                { "value" :".example.com","comment" : ""},
+                { "value" :".example.net","comment" : ""}
+            ]
+        }
     }
-}
+]
