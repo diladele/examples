@@ -1,13 +1,11 @@
-[
-    {
-        "id"      : "custom_list2",
-        "version" : 1,
-        "name"    : "Second Custom List",
-        "comment" : "Manually put here some custom exclusions as you require",
-        "rules" : {
-            "domain_name" : [
-                { "value" :".example.org","comment" : ""}
-            ]
-        }
+{
+    "id"      : "custom_list2",
+    "version" : 1,
+    "name"    : "Second Custom List",
+    "comment" : "Manually put here some custom exclusions as you require",
+    "rules" : {
+        "domain_name" : [
+            { "value" :".example.org","comment" : ""}
+        ]
     }
-]
+}
