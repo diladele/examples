@@ -1,5 +1,5 @@
 {
-    "id"      : "custom_list1",
+    "id"      : "external_list1",
     "version" : 1,
     "name"    : "First Custom List",
     "comment" : "Manually put here some custom exclusions as you require",
