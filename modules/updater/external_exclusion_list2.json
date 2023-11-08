@@ -1,6 +1,6 @@
 [
     {
-        "id"      : "external_list2",
+        "id"      : "external_exclusion_list2",
         "version" : 1,
         "name"    : "Second External List",
         "comment" : "Manually put here some custom exclusions as you require",
