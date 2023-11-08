@@ -1,0 +1,4 @@
+# 
+# external file 2 - contains some contents to be included into proxy configuration
+#
+.example.org
