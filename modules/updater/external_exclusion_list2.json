@@ -1,7 +1,7 @@
 {
     "id"      : "external_list2",
     "version" : 1,
-    "name"    : "Second Custom List",
+    "name"    : "Second External List",
     "comment" : "Manually put here some custom exclusions as you require",
     "rules" : {
         "domain_name" : [
